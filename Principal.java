@@ -13,7 +13,7 @@ public class Pricnipal {
 			}
 			while (vida < 3 && !fl);
 			if (fl == true){
-				System.out.println("Adivinaste!!!!");
+				System.out.println("Adivinaste!");
 			}
 			else{
 				System.out.println("ups, perdiste...")
